@@ -1,6 +1,6 @@
 {
   "name": "@hiro0218/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hiro's prettier config",
   "main": "index.js",
   "publishConfig": {

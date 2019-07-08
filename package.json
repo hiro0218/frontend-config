@@ -1,0 +1,22 @@
+{
+  "name": "frontend-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiro0218/frontend-config.git"
+  },
+  "author": "hiro0218",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiro0218/frontend-config/issues"
+  },
+  "homepage": "https://github.com/hiro0218/frontend-config#readme",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}

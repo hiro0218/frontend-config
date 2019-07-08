@@ -1,5 +1,9 @@
 # @hiro0218/postcss-config
 
+```
+npm i -D @hiro0218/prettier-config
+```
+
 ```js
 // postcss.config.js
 

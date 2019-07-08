@@ -1,0 +1,15 @@
+{
+  "name": "@hiro0218/prettier-config",
+  "version": "1.0.0",
+  "description": "hiro's prettier config",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "hiro0218",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiro0218/frontend-config.git"
+  },
+  "license": "MIT"
+}

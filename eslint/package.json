@@ -1,5 +1,5 @@
 {
-  "name": "hiro0218-eslint-config",
+  "name": "@hiro0218/eslint-config",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

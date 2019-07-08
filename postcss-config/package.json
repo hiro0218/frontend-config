@@ -1,0 +1,11 @@
+{
+  "name": "@hiro0218/postcss-config",
+  "version": "1.0.0",
+  "description": "```js // postcss.config.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hiro0218",
+  "license": "MIT"
+}

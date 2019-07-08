@@ -5,7 +5,7 @@
 
 module.exports = {
   plugins: {
-    '@hiro0218/postcss-config': { unsafe: true },
+    '@hiro0218/postcss-config',
   },
 };
 ```

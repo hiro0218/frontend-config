@@ -6,9 +6,14 @@
   "publishConfig": {
     "access": "public"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "hiro0218",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiro0218/frontend-config.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^9.6.1",
+    "postcss-flexbugs-fixes": "^4.1.0"
+  }
 }

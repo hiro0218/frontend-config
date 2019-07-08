@@ -12,14 +12,28 @@
     "url": "git+https://github.com/hiro0218/frontend-config.git"
   },
   "author": "hiro0218",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/hiro0218/frontend-config/issues"
   },
   "homepage": "https://github.com/hiro0218/frontend-config#readme",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "**/*.js": [
+      "eslint --fix",
+      "eslint",
+      "git add"
+    ]
+  },
   "devDependencies": {
-    "eslint": "^5.16.0",
     "@hiro0218/eslint-config": "^1.0.2",
+    "eslint": "^5.16.0",
+    "husky": "^3.0.0",
+    "lint-staged": "^9.1.0",
     "prettier": "^1.18.2"
   }
 }

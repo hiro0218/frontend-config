@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint --ext .js --ignore-path .gitignore .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,8 @@
   },
   "homepage": "https://github.com/hiro0218/frontend-config#readme",
   "devDependencies": {
+    "eslint": "^5.16.0",
+    "@hiro0218/eslint-config": "^1.0.2",
     "prettier": "^1.18.2"
   }
 }

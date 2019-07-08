@@ -1,0 +1,21 @@
+{
+  "name": "hiro0218-eslint-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hiro0218",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^5.0.0",
+    "eslint-plugin-prettier": "3.1.0",
+    "eslint-plugin-vue": "^5.2.2"
+  }
+}

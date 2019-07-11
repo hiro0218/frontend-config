@@ -1,3 +1,3 @@
-import eslintrc from './.eslintrc';
+const eslintrc = require('./.eslintrc');
 
 module.exports = eslintrc;

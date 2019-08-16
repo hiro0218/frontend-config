@@ -1,0 +1,23 @@
+{
+  "name": "@hiro0218/stylelint-config",
+  "version": "1.0.0",
+  "description": "hiro's stylelint config",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "hiro0218",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiro0218/frontend-config.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "stylelint": "^10.1.0",
+    "stylelint-config-property-sort-order-smacss": "^5.0.0",
+    "stylelint-config-recommended": "^2.2.0",
+    "stylelint-config-recommended-scss": "^3.3.0",
+    "stylelint-declaration-block-no-ignored-properties": "^2.1.0",
+    "stylelint-scss": "^3.9.3"
+  }
+}

@@ -30,8 +30,8 @@
     ]
   },
   "devDependencies": {
-    "@hiro0218/eslint-config": "^1.0.3",
-    "@hiro0218/prettier-config": "^1.0.1",
+    "@hiro0218/eslint-config": "^1.0.4",
+    "@hiro0218/prettier-config": "^1.0.2",
     "eslint": "^6.0.1",
     "husky": "^3.0.0",
     "lint-staged": "^9.1.0",

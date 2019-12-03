@@ -30,7 +30,7 @@
     ]
   },
   "devDependencies": {
-    "@hiro0218/eslint-config": "^1.0.5",
+    "@hiro0218/eslint-config": "^1.1.0",
     "@hiro0218/prettier-config": "^1.0.2",
     "eslint": "^6.0.1",
     "husky": "^3.0.9",

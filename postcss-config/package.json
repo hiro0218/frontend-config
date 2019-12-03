@@ -13,7 +13,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "autoprefixer": "^9.6.1",
-    "postcss-flexbugs-fixes": "^4.1.0"
+    "autoprefixer": "^9.7.3",
+    "postcss-flexbugs-fixes": "^4.1.0",
+    "postcss-sort-media-queries": "^1.0.9"
   }
 }

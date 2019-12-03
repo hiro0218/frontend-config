@@ -5,5 +5,6 @@ module.exports = {
       grid: true,
       cascade: false,
     }),
+    require('postcss-sort-media-queries'),
   ],
 };

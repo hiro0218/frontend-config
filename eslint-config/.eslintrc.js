@@ -32,6 +32,8 @@ module.exports = {
     'func-names': 0,
     'consistent-return': 0,
     'global-require': 0,
+    "prefer-const": 2,
+    "max-depth": ["error", 3],
     'vue/max-attributes-per-line': 'off',
     'vue/no-v-html': 0,
     'vue/html-self-closing': [

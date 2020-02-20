@@ -1,6 +1,6 @@
 {
   "name": "@hiro0218/eslint-config",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "hiro's eslint config",
   "main": "index.js",
   "publishConfig": {

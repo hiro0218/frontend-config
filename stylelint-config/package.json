@@ -1,6 +1,6 @@
 {
   "name": "@hiro0218/stylelint-config",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "hiro's stylelint config",
   "main": "index.js",
   "publishConfig": {
